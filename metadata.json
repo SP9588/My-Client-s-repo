@@ -1,0 +1,6 @@
+{
+  "name": "Jawahar Cloth - Shivrinarayan",
+  "description": "Digital storefront, catalog, location map, photos, and WhatsApp ordering for Jawahar Cloth, located near Mandir, Shivrinarayan, Chhattisgarh.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
